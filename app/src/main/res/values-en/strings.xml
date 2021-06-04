@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HangMan</string>
+    <string name="question">Question</string>
+    <string name="check">Verify</string>
+    <string name="TextoPregunta">Question</string>
+    <string name="BotonJugardeNuevo">Play Again</string>
+    <string name="TitutloAhorcado">Hangman Game</string>
+    <string name="BotonJugar">Play</string>
+    <string name="correctotext">Fine!</string>
+    <string name="Victoria">You Won</string>
+        <string name="Derrota">Wrong</string>
+    <string name="Puntuacion">Score</string>
+    <array name="pregunta">
+        <item>How many ministries are in Ecuador?;12;45;10;*23;26;34;10;4</item>
+        <item>Who wrote the Odyssey?;Pontius Pilate;*Homer;Pericles;Archimedes;Hercules;Alejo Carpentier;Aristotle;Jesus of Nazareth</item>
+        <item>When was the second world war?;1975;1938;1935;1945;1944;1942;1936;*1939</item>
+        <item>What is the third planet of the solar system?;Venus;*The Earth;Mars;Mercury;Jupiter;The moon;Saturn;Ganymede</item>
+        <item>What is the formula of calcium bicarbonate?;Cl203;Mg(Brt)2;h20;CoHC24;CO2;*Ca(HCO3);Ca(CLO3);Ca(CLO3)2</item>
+
+
+    </array>
+
+
+</resources>
+
+
